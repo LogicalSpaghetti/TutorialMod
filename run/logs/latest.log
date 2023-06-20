@@ -1,0 +1,10 @@
+[09:59:57] [Client thread/INFO] [net.minecraft.client.Minecraft]: Stopping!
+[09:59:57] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Stopping server
+[09:59:57] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving players
+[09:59:57] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving worlds
+[09:59:57] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving chunks for level 'Test'/overworld
+[09:59:57] [Server thread/INFO] [FML]: Unloading dimension 0
+[09:59:57] [Server thread/INFO] [FML]: Applying holder lookups
+[09:59:57] [Server thread/INFO] [FML]: Holder lookups applied
+[09:59:57] [Client thread/INFO] [net.minecraft.client.audio.SoundManager]: SoundSystem shutting down...
+[09:59:57] [Client thread/WARN] [net.minecraft.client.audio.SoundManager]: Author: Paul Lamb, www.paulscode.com

@@ -1,0 +1,14 @@
+{
+  "minecraft:recipes/misc/bowl": {
+    "criteria": {
+      "has_brown_mushroom": "2023-06-18 20:35:18 -0400"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "swampland": "2023-06-18 20:34:08 -0400"
+    },
+    "done": false
+  }
+}
