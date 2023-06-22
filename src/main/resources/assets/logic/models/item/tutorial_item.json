@@ -1,7 +1,7 @@
 {
   "parent": "item/generated",
   "textures": {
-    "layer0": "logic:items/tutorial_item.png"
+    "layer0": "logic:textures/items/tutorial_item"
   },
 
   "display": {
